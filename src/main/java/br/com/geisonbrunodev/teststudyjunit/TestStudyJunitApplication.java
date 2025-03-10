@@ -8,7 +8,5 @@ public class TestStudyJunitApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(TestStudyJunitApplication.class, args);
-
     }
-
 }
