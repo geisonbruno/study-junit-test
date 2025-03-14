@@ -1,6 +1,6 @@
 ## Curso: Testes com JUnit 5 Mockito e Spring Boot (REST APIs)
 
-Link: Link: https://www.udemy.com/course/testes-com-junit-5-mockito-e-spring-boot-rest-apis/
+Link: https://www.udemy.com/course/testes-com-junit-5-mockito-e-spring-boot-rest-apis/
 
 URL do deploy: https://study-junit-test-ae55c7162708.herokuapp.com
 
