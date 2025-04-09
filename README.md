@@ -2,8 +2,6 @@
 
 Link: https://www.udemy.com/course/testes-com-junit-5-mockito-e-spring-boot-rest-apis/
 
-URL do deploy: https://study-junit-test-ae55c7162708.herokuapp.com
-
 ### 📌 Dependência para Testes no Spring Boot
 
 O Spring Boot Starter Test (spring-boot-starter-test) é um starter do Spring Boot que inclui, de forma automática, todas as bibliotecas necessárias para testes unitários e de integração em projetos Spring. Isso facilita a configuração do ambiente de testes, pois não precisamos adicionar manualmente bibliotecas como JUnit e Mockito.
